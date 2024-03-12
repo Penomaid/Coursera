@@ -1,0 +1,17 @@
+Classe Usuário
+   - FazerLogin()
+   - VisualizarLivros(): Lista<Livro>
+   - VisualizarDetalhesLivro(Livro): DetalhesLivro
+   - MarcarLeitura(Livro)
+   - VisualizarRanking(): Ranking
+   - VisualizarPontos(): Pontos
+   - VisualizarTroféus(): Lista<Troféu>
+
+Classe Livro
+   - ObterListaLivros(): Lista<Livro>
+   - ObterDetalhesLivro(): DetalhesLivro
+
+Classe SistemaGamificação
+   - CalcularPontuação(Usuário): Pontos
+   - CalcularTroféus(Usuário): Lista<Troféu>
+   - CalcularRanking(): Ranking
