@@ -1,0 +1,7 @@
+Usuário -> Sistema: FazerLogin()
+Usuário -> Livro: VisualizarLivros()
+Usuário -> Livro: VisualizarDetalhesLivro(Livro)
+Usuário -> Usuário: MarcarLeitura(Livro)
+Usuário -> SistemaGamificação: VisualizarPontos()
+Usuário -> SistemaGamificação: VisualizarTroféus()
+Usuário -> SistemaGamificação: VisualizarRanking()
