@@ -1,0 +1,16 @@
+1. Usuário
+   - Fazer login
+   - Visualizar lista de livros
+   - Visualizar detalhes do livro
+   - Marcar leitura de livro
+   - Visualizar ranking de usuários
+   - Visualizar pontos e troféus
+
+2. Livro
+   - Lista de livros
+   - Detalhes do livro
+
+3. Sistema de Gamificação
+   - Pontuação do usuário
+   - Troféus do usuário
+   - Ranking de usuários
